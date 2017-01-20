@@ -77,3 +77,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Win32/Debug/Othello.#00
+Win32/Debug/
+__history/

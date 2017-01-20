@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.361,=E:\School\Year 2, Semester 1\Programming (2266)\Othello\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.485,E:\School\Year 2, Semester 1\Programming (2266)\Othello\Unit1.cpp=E:\School\Year 2, Semester 1\Programming (2266)\Othello\oGame.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.761,E:\School\Year 2, Semester 1\Programming (2266)\Othello\Unit1.cpp=E:\School\Year 2, Semester 1\Programming (2266)\Othello\oTile.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.683,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\MainForm.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.281,=E:\School\Year 2, Semester 1\Programming (2266)\Othello\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.485,E:\School\Year 2, Semester 1\Programming (2266)\Othello\Unit1.h=E:\School\Year 2, Semester 1\Programming (2266)\Othello\oGame.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.559,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\MainForm.dfm=E:\School\Year 2, Semester 1\Programming (2266)\Othello\MainForm.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.761,E:\School\Year 2, Semester 1\Programming (2266)\Othello\Unit1.h=E:\School\Year 2, Semester 1\Programming (2266)\Othello\oTile.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.281,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Othello.cbproj=E:\School\Year 2, Semester 1\Programming (2266)\Othello\Othello.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.499,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\OthelloPCH1.h=E:\School\Year 2, Semester 1\Programming (2266)\Othello\OthelloPCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.291,=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.478,=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.991,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Othello.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.559,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\MainForm.cpp=E:\School\Year 2, Semester 1\Programming (2266)\Othello\MainForm.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.683,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\MainForm.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.984,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\OthelloPCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.559,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\MainForm.h=E:\School\Year 2, Semester 1\Programming (2266)\Othello\MainForm.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.276,=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.683,C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\MainForm.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.463,=C:\Users\s0474955\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
